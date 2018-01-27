@@ -1,0 +1,13 @@
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\bin\Debug\netcoreapp2.0\OAuthLab.JwtAPI.deps.json
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\bin\Debug\netcoreapp2.0\OAuthLab.JwtAPI.runtimeconfig.json
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\bin\Debug\netcoreapp2.0\OAuthLab.JwtAPI.runtimeconfig.dev.json
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\bin\Debug\netcoreapp2.0\OAuthLab.JwtAPI.dll
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\bin\Debug\netcoreapp2.0\OAuthLab.DAL.dll
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\bin\Debug\netcoreapp2.0\OAuthLab.DAL.pdb
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\obj\Debug\netcoreapp2.0\OAuthLab.JwtAPI.csprojResolveAssemblyReference.cache
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\obj\Debug\netcoreapp2.0\OAuthLab.JwtAPI.csproj.CoreCompileInputs.cache
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\obj\Debug\netcoreapp2.0\OAuthLab.JwtAPI.AssemblyInfoInputs.cache
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\obj\Debug\netcoreapp2.0\OAuthLab.JwtAPI.AssemblyInfo.cs
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\bin\Debug\netcoreapp2.0\OAuthLab.JwtAPI.pdb
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\obj\Debug\netcoreapp2.0\OAuthLab.JwtAPI.dll
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.JwtAPI\obj\Debug\netcoreapp2.0\OAuthLab.JwtAPI.pdb

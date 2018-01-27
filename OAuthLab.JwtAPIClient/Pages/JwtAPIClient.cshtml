@@ -1,0 +1,48 @@
+﻿@page
+@model JwtAPIClientModel
+@{
+    ViewData["Title"] = "JWT API Client";
+}
+
+<h2>JWT API Client</h2>
+
+<div class="form-inline">
+    <div class="form-group">
+        <label for="first-name" class="form">Ime</label>
+        <input id="first-name" class="form-control" type="text" />
+    </div>
+    <div class="form-group">
+        <label for="phone" class="form">Telefon</label>
+        <input id="phone" class="form-control" type="text" />
+    </div>
+</div>
+
+<table id="suppliers-table" class="table">
+    <thead>
+        <tr>
+            <th>
+                Naziv dobavljaca
+            </th>
+            <th>
+                Grad
+            </th>
+            <th>
+                Drzava
+            </th>
+            <th>
+                Ime kontakta
+            </th>
+            <th>
+                Telefon
+            </th>
+            <th>
+                Fax
+            </th>
+            <th>
+                Broj proizvoda
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>

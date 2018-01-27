@@ -1,0 +1,9 @@
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.DAL\bin\Debug\netcoreapp2.0\OAuthLab.DAL.deps.json
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.DAL\bin\Debug\netcoreapp2.0\OAuthLab.DAL.dll
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.DAL\obj\Debug\netcoreapp2.0\OAuthLab.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.DAL\obj\Debug\netcoreapp2.0\OAuthLab.DAL.AssemblyInfoInputs.cache
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.DAL\obj\Debug\netcoreapp2.0\OAuthLab.DAL.AssemblyInfo.cs
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.DAL\bin\Debug\netcoreapp2.0\OAuthLab.DAL.pdb
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.DAL\obj\Debug\netcoreapp2.0\OAuthLab.DAL.dll
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.DAL\obj\Debug\netcoreapp2.0\OAuthLab.DAL.pdb
+C:\Users\ezsiniv\source\repos\OAuthLab\OAuthLab.DAL\obj\Debug\netcoreapp2.0\OAuthLab.DAL.csprojResolveAssemblyReference.cache
